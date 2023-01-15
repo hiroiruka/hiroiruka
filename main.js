@@ -55,7 +55,7 @@ const smoothScroll = () => {
                         },
                         speed: 500,
                         effect: 'fade',
-                    });
+                    }))
                 
                     smoothScroll();
                 }
