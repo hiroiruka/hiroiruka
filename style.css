@@ -13,14 +13,14 @@ h1, h2, h3,top-title{
     align-items: center;
     height: 100px;
     width: 100%;
-    background-color: #3333339a;
+    background-color: #f35339;
 }
 #site-logo {
     margin-left: 20px;
 } 
 #site-logo a{
     text-decoration: none;
-    color: #ff3568;
+    color: #fff;
 } 
 #hiro-menu {
     display: flex;
@@ -52,7 +52,7 @@ h1, h2, h3,top-title{
     left: 0;
     width: 100%;
     height: 100vh;
-    background: rgba(0, 0, 0, 0,44)
+    background: rgba(0, 0, 0, 0,644)
 }
 .swiper-slide img {
     width: 100%;
@@ -150,7 +150,7 @@ h1, h2, h3,top-title{
     margin-top: 6rem;
 }
 #book-img img {
-    width: 90%;
+    width: 100%;
     height: 400px;
     object-fit: cover;
 }
