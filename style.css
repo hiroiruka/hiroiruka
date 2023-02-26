@@ -9,7 +9,7 @@ h1, h2, h3,top-title{
 #site-header {
     display:flex;
     position:fixed;
-    justify-content: space-between;
+    justify-content: space-between;24px
     align-items: center;
     height: 100px;
     width: 100%;
